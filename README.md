@@ -1,6 +1,3 @@
-# mybash
-Bash scripts
-
 Here's what the script does:
 
 1. It checks if the Imagick package is installed by running the dpkg -s command. If the package is not installed, it installs it using sudo apt-get install imagemagick -y.
